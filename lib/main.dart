@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
       home: NotesView(),
       theme: ThemeData(
         brightness: Brightness.dark,
+        fontFamily: 'Emilys Candy',
       ),
     );
   }
